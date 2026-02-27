@@ -70,10 +70,15 @@ The script:
 
 docker-ml-lab/
 │
+
 ├── Dockerfile
+
 ├── src/
+
 │   ├── main.py
+
 │   └── requirements.txt
+
 └── README.md
 
 ---
