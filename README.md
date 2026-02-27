@@ -68,17 +68,12 @@ The script:
 
 # 📂 Project Structure
 
-docker-ml-lab-from-scratch/
+docker-ml-lab/
 │
-
 ├── Dockerfile
-
 ├── src/
-
 │   ├── main.py
-
 │   └── requirements.txt
-
 └── README.md
 
 ---
