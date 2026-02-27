@@ -1,6 +1,6 @@
 # 🐳 Docker ML Lab – From Scratch
 
-## 📌 Project Overview
+## 📌 Overview
 
 This lab demonstrates how to containerize a Machine Learning training pipeline using Docker.
 
