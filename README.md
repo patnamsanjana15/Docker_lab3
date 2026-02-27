@@ -75,9 +75,9 @@ docker-ml-lab/
 
 ├── src/
 
-│   ├── main.py
+│      ├── main.py
 
-│   └── requirements.txt
+│      └── requirements.txt
 
 └── README.md
 
